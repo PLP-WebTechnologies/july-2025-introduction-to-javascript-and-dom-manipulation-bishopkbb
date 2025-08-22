@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  background-color: #f4f4f9;
+}
+
+input {
+  padding: 8px;
+  width: 70%;
+  margin: 10px 0;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: teal;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkcyan;
+}
+
+li {
+  margin: 8px 0;
+  list-style: none;
+}
